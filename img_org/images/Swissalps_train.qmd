@@ -1,0 +1,14 @@
+---
+title: "Swissalps_train"
+author: Olivia T
+image: ../../images/swissalps_train.jpg
+description: ""
+categories: ["images"]
+date: 2025-12-27 21:26:57.50673
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/swissalps_train.jpg)
+

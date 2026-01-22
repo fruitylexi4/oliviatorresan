@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "e95fc5be"
+  },
+  "writing/thesis.qmd": {
+    "thesis.html": "496d95c6"
+  },
+  "writing/writing/thesis.qmd": {
+    "thesis.html": "80690a8f"
+  },
+  "mixes/mix1.qmd": {
+    "mix1.html": "9435db52"
+  },
+  "img_org/images/Swissalps_snow1.qmd": {
+    "Swissalps_snow1.html": "638eb681"
+  },
+  "img_org/images/Italy_pink.qmd": {
+    "Italy_pink.html": "98f280c1"
+  },
+  "img_org/images/Swissalps_snow2.qmd": {
+    "Swissalps_snow2.html": "fae37a5d"
+  },
+  "img_org/images/Vatican_up.qmd": {
+    "Vatican_up.html": "d71818c1"
+  },
+  "img_org/images/Vatican3.qmd": {
+    "Vatican3.html": "3968ba1b"
+  }
+}

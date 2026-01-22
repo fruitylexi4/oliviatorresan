@@ -1,0 +1,14 @@
+---
+title: "Zurich_lake"
+author: Olivia T
+image: ../../images/zurich_lake.jpg
+description: ""
+categories: ["images"]
+date: 2025-12-27 21:20:03.499549
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/zurich_lake.jpg)
+

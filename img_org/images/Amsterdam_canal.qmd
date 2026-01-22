@@ -1,0 +1,14 @@
+---
+title: "Amsterdam_canal"
+author: Olivia T
+image: ../../images/amsterdam_canal.jpg
+description: ""
+categories: ["images"]
+date: 2025-12-27 21:20:03.503417
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/amsterdam_canal.jpg)
+

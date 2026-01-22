@@ -1,0 +1,15 @@
+---
+title: "mix1" 
+date: 2025-01-10 
+categories: "mixes"
+audio: /raw_audio/mix1.mp3
+format:
+  html:
+    page-layout: full
+---
+
+## Listen
+
+`<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/drokz/sets/drokz028-nu-skool-gabber&amp;color=%23000000&amp;auto_play=false"`{=html}
+
+</iframe>

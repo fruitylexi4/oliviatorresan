@@ -1,0 +1,20 @@
+---
+title: "Nesting Competition in Superb Parrots"
+format: closeread-html
+---
+
+I researched and wrote a thesis on a threatened native parrot a few years ago.
+
+I didn't feel that the academy prioritised accessibility, so I challenged myself to visualise what I found.
+
+:::: cr-section
+Closeread enables scrollytelling.
+
+Draw your readers attention with focus effects. @cr-features
+
+::: {#cr-features}
+1.  Highlighting
+2.  Zooming
+3.  Panning
+:::
+::::

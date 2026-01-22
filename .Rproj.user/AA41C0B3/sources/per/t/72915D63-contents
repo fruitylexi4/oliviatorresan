@@ -1,0 +1,29 @@
+---
+title: "website"
+listing:
+  contents: 
+  - img_org
+  - mixes
+  - writing
+  type: grid
+  image-height: "100%"
+  grid-columns: 4
+  page-size: 20
+  grid-item-border: false
+  fields: [image]
+  sort-ui: [date,categories]
+  categories: true
+  sort:
+    - "date desc"
+format:
+  html:
+    page-layout: full
+---
+
+blah blah blah
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

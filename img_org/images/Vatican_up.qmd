@@ -1,0 +1,14 @@
+---
+title: "Vatican_up"
+author: Olivia T
+image: ../../images/vatican_up.jpg
+description: ""
+categories: ["images"]
+date: 2020-06-16 09:18:47
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/vatican_up.jpg)
+

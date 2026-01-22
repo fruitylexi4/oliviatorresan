@@ -1,0 +1,11 @@
+typography:
+  fonts:
+    - family: BBH Bartle
+      source: google
+    - family: Libre Baskerville
+      source: google
+
+  base: Libre Baskerville
+  headings: BBH Bartle
+
+

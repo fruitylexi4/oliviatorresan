@@ -1,0 +1,14 @@
+---
+title: "Swissalps_snow1"
+author: Olivia T
+image: ../../images/swissalps_snow1.jpg
+description: ""
+categories: ["images"]
+date: 2025-12-27 21:20:03.498285
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/swissalps_snow1.jpg)
+
