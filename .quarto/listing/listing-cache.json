@@ -4,6 +4,12 @@
       "img_org",
       "mixes",
       "writing"
+    ],
+    "photography.qmd": [
+      "img_org",
+      "mixes",
+      "writing",
+      "raw_images"
     ]
   }
 }

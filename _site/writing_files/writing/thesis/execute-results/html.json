@@ -1,0 +1,15 @@
+{
+  "hash": "854e322bd8517e3fef0190eb49fb73c1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nformat: closeread-html\n---\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../thesis_img/spgraphic.webp){width=100%}\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,19 @@
+---
+listing:
+  contents: 
+  - img_org
+  type: table 
+  image-height: "100%"
+  max-items: 30
+  grid-columns: 4
+  page-size: 20
+  grid-item-border: false
+  fields: [image]
+  sort-ui: [date,categories]
+  filter-ui: false
+  sort:
+    - "date desc"
+format:
+  html:
+    page-layout: full
+---

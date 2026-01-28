@@ -1,0 +1,12 @@
+---
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="carousel-item active">
+  <!-- Slide 1 -->
+  <img class="d-block w-100" src="/spgraphic.webp">
+</div>
+```

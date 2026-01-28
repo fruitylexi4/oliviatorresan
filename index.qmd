@@ -1,29 +1,18 @@
 ---
-title: "website"
-listing:
-  contents: 
-  - img_org
-  - mixes
-  - writing
-  type: grid
-  image-height: "100%"
-  grid-columns: 4
-  page-size: 20
-  grid-item-border: false
-  fields: [image]
-  sort-ui: [date,categories]
-  categories: true
-  sort:
-    - "date desc"
+title: "Olivia Torresan"
+about:
+  id: hero-heading
+  template: trestles
 format:
   html:
     page-layout: full
 ---
 
-blah blah blah
+::: {#hero-heading}
+olivia is an interdisciplinary scientist, writer and artist from ngunnawal and ngambri country (canberra, "australia").
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+their scientific work focuses on applied ecology; where they specialised in ornithology for a research thesis at the australian national university.
 
-```{r}
-1 + 1
-```
+artistically, they enjoy exploring and archiving sound, photo and text.
+:::
+

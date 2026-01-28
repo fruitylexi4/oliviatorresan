@@ -2,11 +2,21 @@ project:
   type: website
 
 website:
-  title: "Olivia Torresan"
   navbar:
     background: "#AE1313"
     foreground: "#FFFFFF"
-
+    right:
+      - text: "home"
+        href: index.qmd
+      - text: "education"
+        href: education.qmd
+      - text: "writing"
+        href: writing.qmd
+      - text: "digital art"
+        href: digital_art.qmd
+      - text: "photography"
+        href: photography.qmd
+        
 
  
 format:
